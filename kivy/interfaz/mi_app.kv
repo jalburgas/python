@@ -1,0 +1,28 @@
+<MainWidget>:
+    orientation: 'vertical'
+    padding: 20
+    spacing: 10
+    
+    Label:
+        text: 'Ingrese texto:'
+        size_hint_y: 0.2
+    
+    TextInput:
+        id: entrada
+        text: root.texto_ingresado
+        on_text: root.texto_ingresado = self.text
+        size_hint_y: 0.2
+    
+    Button:
+        text: 'Procesar'
+        on_press: root.procesar_texto()
+        size_hint_y: 0.15
+    
+    Label:
+        text: root.texto_salida
+        size_hint_y: 0.2
+    
+    Button:
+        text: 'Limpiar'
+        on_press: root.limpiar_campos()
+        size_hint_y: 0.15
