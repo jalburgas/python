@@ -1,3 +1,5 @@
+# Es unja plantilla para crear objetos de forma predefinida
+#permiten representar objetos o entidaes
 class Auto:
     marca = "FIAT"
     modelo = 1977
