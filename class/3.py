@@ -5,7 +5,8 @@ class Persona:
     def __init__(self, nombre, edad):
         self.nombre = nombre
         self.edad = edad
-    
+ #Un método es una función que pertenece a una clase y define el comportamiento o las acciones que pueden realizar los objetos creados a partir de esa clase.       
+ # El método def saludar(self): se llama método de instancia (o simplemente método).  
     def saludar(self):
         return f"Hola, me llamo {self.nombre} y tengo {self.edad} años."
     
