@@ -1,0 +1,38 @@
+tk 	ttk 	tix
+Button 	Button 	Ballon
+Canvas 	Checkbutton 	ButtonBox
+Checkbutton 	Combobox 	CheckList
+Entry 	Entry 	ComboBox
+Frame 	Frame 	Control
+Label 	Label 	DialogShell
+LabelFrame 	LabeledScale 	DirList
+Listbox 	Labelframe 	DirSelectBox
+Menu 	Menubutton 	DirSelectDialog
+Menubutton 	Notebook 	DirTree
+Message 	OptionMenu 	ExFileSelectBox
+OptionMenu 	Panedwindow 	ExFileSelectDialog
+PanedWindow 	Progressbar 	FileEntry
+Radiobutton 	Radiobutton 	FileSelectBox
+Scale 	Scale 	FileSelectDialog
+Scrollbar 	Scrollbar 	Hlist
+Spinbox 	Separator 	InputOnly
+Text 	Sizegrip 	LabelEntry
+  	Treeview 	LabelFrame
+  	  	ListNoteBook
+  	  	Meter
+  	  	NoteBook
+  	  	OptionMenu
+  	  	PanedWindow
+  	  	PopupMenu
+  	  	ResizeHandle
+  	  	ScrolledHList
+  	  	ScrolledListBox
+  	  	ScrolledText
+  	  	ScrolledTList
+  	  	ScrolledWindow
+  	  	Select
+  	  	Shell
+  	  	StdButtonBox
+  	  	Tlist
+  	  	Tree
+  	  	 
