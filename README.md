@@ -17,8 +17,19 @@ Desde Cero
 <br>
 6 Operadores de Comparacion
 <br>
-7 if
+7 Operadores Logicos
 <br>
+8 if
+<br>
+9for
+<br>
+10 While
+<br>
+Clases
+<br>
+funciones
+<br>
+Programacion orientada a objetos
 
 
 
