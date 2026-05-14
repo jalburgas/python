@@ -1,35 +1,28 @@
-# python
-curso
-<br>
-Desde Cero
-<br>
-1 Tipo de Datos
-<br>
-2Leer y -mostrar
-<br>
-3 Opreadores Aritmeticos
-<br>
-4Lista
-<br>
-4Tuplas
-<br>
-5 Diccionarios
-<br>
-6 Operadores de Comparacion
-<br>
-7 Operadores Logicos
-<br>
-8 if
-<br>
-9for
-<br>
-10 While
-<br>
-11 Clases
-<br>
-12funciones
-<br>
-13 Programacion orientada a objetos
+# 🐍 Curso Python - Desde Cero
+
+![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-completo-brightgreen.svg)
+
+## 📚 Temario del Curso
+
+| # | Tema | Descripción |
+|---|------|-------------|
+| 1 | **Tipos de Datos** | `int`, `float`, `str`, `bool`, `list`, `tuple`, `dict` |
+| 2 | **Leer y Mostrar** | Funciones `print()` e `input()` |
+| 3 | **Operadores Aritméticos** | `+`, `-`, `*`, `/`, `//`, `%`, `**` |
+| 4 | **Listas** | Colecciones mutables y sus métodos |
+| 5 | **Tuplas** | Colecciones inmutables |
+| 6 | **Diccionarios** | Estructuras clave-valor |
+| 7 | **Operadores de Comparación** | `==`, `!=`, `>`, `<`, `>=`, `<=` |
+| 8 | **Operadores Lógicos** | `and`, `or`, `not` |
+| 9 | **Condicionales (if)** | Toma de decisiones |
+| 10 | **Bucles (for)** | Iteración sobre secuencias |
+| 11 | **Bucles (while)** | Iteración con condición |
+| 12 | **Clases** | Plantillas para objetos |
+| 13 | **Funciones** | Bloques de código reutilizables |
+| 14 | **POO** | Programación Orientada a Objetos |
+
 
 
 
