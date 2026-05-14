@@ -25,11 +25,11 @@ Desde Cero
 <br>
 10 While
 <br>
-Clases
+11 Clases
 <br>
-funciones
+12funciones
 <br>
-Programacion orientada a objetos
+13 Programacion orientada a objetos
 
 
 
