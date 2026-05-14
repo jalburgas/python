@@ -8,8 +8,8 @@
 
 | # | Tema | Descripción |
 |---|------|-------------|
-| 1 | **Tipos de Datos** | `int`, `float`, `str`, `bool`, `list`, `tuple`, `dict` |
-| 2 | **Leer y Mostrar** | Funciones `print()` e `input()` |
+| 1 | **Leer y Mostrar** | Funciones `print()` e `input()` |
+| 2 | **Tipos de Datos** | `int`, `float`, `str`, `bool`, `list`, `tuple`, `dict` |
 | 3 | **Operadores Aritméticos** | `+`, `-`, `*`, `/`, `//`, `%`, `**` |
 | 4 | **Listas** | Colecciones mutables y sus métodos |
 | 5 | **Tuplas** | Colecciones inmutables |
@@ -22,7 +22,6 @@
 | 12 | **Clases** | Plantillas para objetos |
 | 13 | **Funciones** | Bloques de código reutilizables |
 | 14 | **POO** | Programación Orientada a Objetos |
-
 
 
 
